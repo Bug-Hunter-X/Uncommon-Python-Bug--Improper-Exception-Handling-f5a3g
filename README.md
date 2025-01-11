@@ -1,0 +1,1 @@
+This repository showcases a common yet easily overlooked bug in Python programming: improper exception handling.  The `bug.py` file contains a function that attempts to divide two numbers but lacks robust error handling. This can lead to unexpected behavior or crashes if the input is invalid. The `bugSolution.py` file provides a corrected version with improved error handling.
